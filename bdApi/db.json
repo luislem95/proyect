@@ -1,0 +1,22 @@
+{
+    "usuario":[
+        {
+            "id":1,
+            "apellido_materno":"Leiva",
+            "apellido_paterno":"Perez",
+            "nombre":"Rocio",
+            "username":"rleiva",
+            "email":"leiva@hotmail.com",
+            "password":"e10adc3949ba59abbe56e057f20f883e"
+        },
+        {
+            "id":2,
+            "apellido_materno":"Martinez",
+            "apellido_paterno":"Santos",
+            "nombre":"Marta",
+            "username":"msantos",
+            "email":"santos@hotmail.com",
+            "password":"e10adc3949ba59abbe56e057f20f883e"
+        }
+    ]
+}
